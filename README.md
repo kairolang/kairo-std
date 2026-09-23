@@ -1,12 +1,1 @@
-# kairo-std
-
-Nothing in this dir is final, mostly drafts and prototyping.
-
-
-core modules needed:
-`Vector`
-`Set`
-`OrderedMap`
-`HashMap`
-`Nullable`
-`
+# This Repo has been moved with https://github.com/kairolang/kairo serving as the primary mono repo holding ground.
